@@ -3,11 +3,17 @@ In this we analyze the factors of streetlight location and household income on c
 Used Python and Python notebook.
 
 Steps include:
+
 • Data gathering
+
 • Data preprocessing (merging different data sources, data cleaning, etc.)
+
 • Exploratory data analysis and visualizations
+
 • Implementation of at least AI models
+
 • Evaluation of the models
+
 • Latex report and python notebook showcasing the results
 
 
